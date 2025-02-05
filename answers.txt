@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to healthcare. For example for
+disease diagnosis, ML models can analyze patient date to predict
+ diseases.
