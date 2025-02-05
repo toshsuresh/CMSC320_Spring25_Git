@@ -15,3 +15,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer:Merging preserves the full history, including the branch structure.
 Rebasing rewrites history to make it cleaner and linear.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to making new connections and working with new people.
